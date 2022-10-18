@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding:0;
+}
+
+header{
+  width: 100%;
+  height: 800px;
+  text-align: center;
+  display: block;
+}
+
+header .wiki-encabezado{
+  font-size: 25px;
+
+}
+
+header .logo-wiki img{
+  width: 250px;
+  height: 150px;
+}
